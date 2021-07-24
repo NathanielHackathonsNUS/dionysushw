@@ -13,7 +13,7 @@ On line 13 of main.py, insert your token into the `TOKEN`. For example, `TOKEN="
 ## Starting the Bot
 Botfather would have a link to your bot on its creation. Click on it and send /start to begin interacting.
 
-### More Information
+## More Information
 Our team, dionysus.io (Team ID 079) chose the education theme in order to improve learning in this post-covid age.
 
 We decided to leverage Telegram and its ability to create bots in order to come up with a solution on a platform many are familiar with.
